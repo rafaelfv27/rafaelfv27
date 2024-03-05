@@ -1,5 +1,5 @@
 <h1 align="center">Hello! Rafael Ferreira Veríssimo</h1>
-<h3 align="center">Scientific Initiation Student at LEEDMOL</h3>
+<h3 align="center">Master's student at LEEDMOL</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelfv27" alt="rafaelfv27" /></a> </p>
 
