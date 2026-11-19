@@ -17,4 +17,4 @@ Computational chemistry, excited states and machine learning for molecules.
 
 **Tools:** Python · PyTorch · scikit-learn · C++ · Fortran · Bash · LaTeX · ORCA · Gaussian 16 · xTB/CREST · LAMMPS · Multiwfn · SLURM
 
-<img src="https://github-readme-stats.vercel.app/api?username=rafaelfv27&show_icons=true&hide_rank=true&hide_border=true&hide_title=true&theme=transparent&card_width=320&locale=en" alt="GitHub stats" height="120" />
+<img src="profile/stats.svg" alt="GitHub stats" height="120" />
